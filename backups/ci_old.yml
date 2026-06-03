@@ -10,7 +10,7 @@ on:
       - main
 
 jobs:
-
+#selling up python
   python-setup:
 
     runs-on: ubuntu-latest
