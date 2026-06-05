@@ -1,4 +1,4 @@
-# SkillsTrainingAcademyJuneBatch1
+
 # Automated Artifact
 
 A lightweight Flask application with a GitHub Actions pipeline for building Docker images, pushing Docker Hub tags, and creating GitHub Releases with changelog.
